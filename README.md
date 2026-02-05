@@ -1,67 +1,35 @@
-# Hi there, I'm Gokul! 👋 
+# Hi there, I'm Gokula Krishna P! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Engineering+Student;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
----
-
-### 💫 About Me
-- 🔭 I’m currently working on a AI Tutor built using reinforcement learning. 
-- 🌱 I’m currently learning **Advanced System Design and AI Integration**
-- 💬 Ask me about **C++,React, Java, or why the dark mode is superior**
-- ⚡ Fun fact: **I code better when the sun is down.**
+### 🛠 About Me
+- 🎓 Currently pursuing my degree in **Engineering**.
+- 🔭 Working on **Fabrication & Project Management** applications.
+- ⚡ Fun fact: I love exploring how hardware and software integrate to solve real-world problems.
 
 ---
 
-### 🛠️ My Tech Stack
-
+### 🚀 Skills & Tools
 <p align="left">
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=java">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=c%2B%2B">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=javascript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=react">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=html">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
-  </a>
-  <a href="https://github.com/ishaanvaish06?tab=repositories&q=&language=css">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishaanvaish06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishaanvaish06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaanvaish06&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-### 🐍 Contribution Journey
-![Snake animation](https://raw.githubusercontent.com/ishaanvaish06/ishaanvaish06/output/github-contribution-grid-snake.svg)
-
-<p align="right"></p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaanvaish06&label=Profile%20views&color=0e75b6&style=flat" alt="ishaanvaish06" />
-</p>
+#### 🏗️ [Project Name 1 - e.g., Fabrication Phase 1]
+- **Description:** A brief one-line description of what this project does.
+- **Tech Stack:** Python, Arduino, etc.
+- [🔗 View Project](
