@@ -1,4 +1,4 @@
-# Hi there, I'm Ishaan! 👋 
+# Hi there, I'm Gokul! 👋 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
